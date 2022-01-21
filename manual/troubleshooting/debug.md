@@ -11,7 +11,7 @@ Debug can be configured using [environment](../../setup/system/environment.md#de
 Depending on your work context you may need to configure debug accordingly.
 
 ::: warning
-Error level >= 2 is not recommended for production environments. Is not safe to print the errors to the screen, handle it with care.
+Error level >= 2 is not recommended for production environments. It is not safe to print the errors to the screen, handle it with care.
 :::
 
 | Level | Description                          |
